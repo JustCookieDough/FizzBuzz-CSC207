@@ -38,4 +38,6 @@ class FizzBuzz {
         i++;
         return i;
     }
+
+    // small change
 }
